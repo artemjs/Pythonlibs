@@ -1,0 +1,31 @@
+# Требования для примеров friendly_exceptions
+# Requirements for friendly_exceptions examples
+
+# Основная библиотека
+# Main library
+friendly-exceptions>=0.0.1
+
+# Дополнительные библиотеки для примеров
+# Additional libraries for examples
+
+# Для веб-разработки (опционально)
+# For web development (optional)
+# flask>=2.0.0
+# django>=4.0.0
+
+# Для data science (опционально)
+# For data science (optional)
+# pandas>=1.3.0
+# numpy>=1.21.0
+# matplotlib>=3.4.0
+
+# Для тестирования (опционально)
+# For testing (optional)
+# pytest>=6.0.0
+# pytest-cov>=2.0.0
+
+# Для разработки (опционально)
+# For development (optional)
+# black>=21.0.0
+# flake8>=3.8.0
+# mypy>=0.800.0
